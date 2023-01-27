@@ -1,0 +1,15 @@
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\bin\Debug\net6.0\Teste Posto de Combustível.exe
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\bin\Debug\net6.0\Teste Posto de Combustível.deps.json
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\bin\Debug\net6.0\Teste Posto de Combustível.runtimeconfig.json
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\bin\Debug\net6.0\Teste Posto de Combustível.dll
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\bin\Debug\net6.0\Teste Posto de Combustível.pdb
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.csproj.AssemblyReference.cache
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.AssemblyInfoInputs.cache
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.AssemblyInfo.cs
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.csproj.CoreCompileInputs.cache
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.dll
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\refint\Teste Posto de Combustível.dll
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.pdb
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\Teste Posto de Combustível.genruntimeconfig.cache
+C:\Repositorios\projtonovo\Teste Posto de Combustível\Teste Posto de Combustível\obj\Debug\net6.0\ref\Teste Posto de Combustível.dll
